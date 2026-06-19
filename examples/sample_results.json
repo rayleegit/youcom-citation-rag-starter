@@ -1,0 +1,28 @@
+{
+  "results": {
+    "web": [
+      {
+        "title": "You.com Docs",
+        "url": "https://you.com/docs/welcome",
+        "snippets": [
+          "You.com gives developers APIs for AI apps that need current web context.",
+          "The docs describe search, page content, and deeper research workflows."
+        ]
+      },
+      {
+        "title": "Grounding LLM responses with citations",
+        "url": "https://you.com/docs/capabilities/grounding-llm-responses-with-citations",
+        "snippets": [
+          "Search results include enough source metadata to connect generated claims back to URLs."
+        ]
+      },
+      {
+        "title": "MCP server for web search",
+        "url": "https://you.com/docs/capabilities/mcp-server-for-web-search",
+        "snippets": [
+          "The MCP setup lets compatible assistants call You.com web tools from inside their normal workflow."
+        ]
+      }
+    ]
+  }
+}
